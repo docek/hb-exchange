@@ -1,0 +1,12 @@
+from .binance import Exchange as Binance
+from .bitfinex import Exchange as Bitfinex
+from .bitstamp import Exchange as Bitstamp
+from .bitmex import Exchange as Bitmex
+from .bybit import Exchange as Bybit
+from .coinbase import Exchange as Coinbase
+from .deribit import Exchange as Deribit
+from .ftx import Exchange as Ftx
+from .huobi import Exchange as Huobi
+from .kraken import Exchange as Kraken
+from .okex import Exchange as Okex
+from .phemex import Exchange as Phemex
